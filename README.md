@@ -17,3 +17,9 @@ Ini ketika saya mengubah data pada id 1
 Ini ketika saya menghapus data id 1, yaitu kakak saya Itachi. Karena dia telah mengkhianati desa Konoha
 ![image](https://user-images.githubusercontent.com/46425489/160240062-0b9eee10-edc6-4f9c-8dc2-7ebcf9805164.png)
 
+## Tampilan Web
+![image](https://user-images.githubusercontent.com/46425489/160240872-99130c9c-8951-4053-a00b-97da0ed423cb.png)
+
+![image](https://user-images.githubusercontent.com/46425489/160241132-a924fb15-a3e6-4f36-9ead-026b92d39231.png)
+
+![image](https://user-images.githubusercontent.com/46425489/160241148-97ef0cce-2b4a-465c-bcff-ef9df1968a0b.png)
